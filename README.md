@@ -3,7 +3,7 @@
 [ссылке](https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-community-8.0.21.0.msi).
 
 * Открываем инсталлер
-![]()
+![](./screenshots/MySQL Installer - Community_pre_loading.png)
 
 * Выбираем пункт **Server only**, кликаем **Next** 
 ![]()
